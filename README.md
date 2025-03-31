@@ -1,4 +1,4 @@
-<h2 align="left">¡Hola👋! Bienvenido, mi nombre es Ewy.</h2>
+<h2 align="center">¡Hola👋! Bienvenido, mi nombre es Ewy.⚡</h2>
 
 ###
 
@@ -10,13 +10,8 @@
   <img src="https://streak-stats.demolab.com?user=edwyng&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtkMTZ6MnAzc3FkbmFwdHRrNDN5YnFyOHllaWlta2c4MmkxYWtuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif"  />
-
-###
-
-<div align="left">
+##
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
@@ -36,7 +31,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="www.linkedin.com/in/edwyn-guzman-95324632b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -50,21 +45,13 @@
 
 ###
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edwyng/edwyng/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edwyng/edwyng/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/edwyng/edwyng/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edwyng&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
 <!--
 **edwynG/edwyng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
