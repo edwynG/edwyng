@@ -23,7 +23,9 @@
 
 <!-- Stack Tecnológico (Tamaño aumentado a 40px para mejor visibilidad) -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,next,tailwind,py,flask,laravel,nestjs,java,c,cpp,docker,postgres,linux" height="40" alt="Stack Tecnológico" />
+  <a href="https://github.com/edwynG" >
+    <img src="https://skillicons.dev/icons?i=ts,react,next,tailwind,py,flask,laravel,nestjs,java,c,cpp,docker,postgres,linux" height="40" alt="Stack Tecnológico" />
+  </a>
 </div>
 
 <br>
