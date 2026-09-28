@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>¡Hola 👋! Soy Ewy ⚡</h1>
+  <h1>Hola, soy Edwyn 👋</h1>
   <h3><b>Desarrollador Full-Stack y DevOps</b></h3>
 </div>
 
