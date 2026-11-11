@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola, soy Edwyn 👋</h1>
-  <h3><b>Desarrollador Full-Stack y DevOps</b></h3>
+  <h3><b>IA/ML, Mid Full-stack y DevOps Engineer</b></h3>
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 <div align="center">
   <p>
-    Me especializo en construir aplicaciones web y móviles, diseñar APIs robustas y automatizar infraestructuras.
+  Actualmente me desempeño como desarrollador full-stack y devops engineer, mientras profundizo de manera constante en el aprendizaje automático y el deep learning como aprendiz de inteligencia artificial.
   </p>
 </div>
 
