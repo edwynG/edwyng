@@ -38,7 +38,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edwynjesus30@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat-square" height="40" alt="gmail logo" />
   </a>
-  <a href="https://twitter.com/edwynG7" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/ewyg__" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat-square" height="40" alt="twitter logo" />
   </a>
 </div>
